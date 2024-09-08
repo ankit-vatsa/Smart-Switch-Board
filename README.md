@@ -10,3 +10,5 @@ Using the mobile application, when a specific pattern or painting is scanned, a 
 For IoT device configuration:
 
 <a href="https://github.com/ankit-vatsa/Smart-Switch-Board/blob/main/Info">Click here</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-TaRuXGV1k?si=DcoXRmpgjig-ZSFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
