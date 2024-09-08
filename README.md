@@ -1,7 +1,7 @@
 # Smart-Switch-Board
 Smart Switch Board for Home Modernization
 
->> Tools: Unity3D, Blender, Vuforia, IoT 
+`Tools: Unity3D, Blender, Vuforia, IoT`
 
 The project was related to Augmented Reality, incorporating tools such as Blender, Unity 3D, Vuforia, and IoT. While it may not fall under the games category, it involved the use of necessary game development tools and technologies. The project aims to virtualize the privacy switch, bridging the virtual and real worlds, and eliminating the need for any physical switch to turn an apparatus On/Off.
 
