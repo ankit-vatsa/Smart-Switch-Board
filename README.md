@@ -11,4 +11,5 @@ For IoT device configuration:
 
 <a href="https://github.com/ankit-vatsa/Smart-Switch-Board/blob/main/Info">Click here</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-TaRuXGV1k?si=DcoXRmpgjig-ZSFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Project Demo Video]([https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg](https://github.com/ankit-vatsa/Smart-Switch-Board/blob/main/Project_Demo_Image_2.jpg))]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/embed/Q-TaRuXGV1k?si=DcoXRmpgjig-ZSFD))
+
